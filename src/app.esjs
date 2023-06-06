@@ -2,7 +2,7 @@ importar { Terminal } desde "@es-js/terminal"
 importar { tiza } desde "https://cdn.jsdelivr.net/npm/@es-js/tiza@0.0.5/+esm"
 importar cryptojs desde "https://cdn.jsdelivr.net/npm/crypto-js@4.1.1/+esm"
 importar.meta.env={
-VITE_TOKEN: "https://cdn.jsdelivr.net/npm/@es-js/tiza@0.0.5/+esm",
+VITE_TOKEN: "dbb7d2d2d4025d02883e0ee17d9716c8",
 }
 asincrono funcion obtenerCotizacion() {
   Terminal.limpiar()
